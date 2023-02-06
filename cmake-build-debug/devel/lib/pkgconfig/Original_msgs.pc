@@ -1,0 +1,8 @@
+prefix=/home/hamada/catkin_ws/src/Original_msgs/cmake-build-debug/devel
+
+Name: Original_msgs
+Description: Description of Original_msgs
+Version: 0.0.0
+Cflags: -I/home/hamada/catkin_ws/src/Original_msgs/cmake-build-debug/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime
